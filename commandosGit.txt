@@ -1,0 +1,13 @@
+git clone direccionDelRepositorio
+git clone https://github.com/031Ref/PunterosEnC-.git
+
+cd nombreCarpeta
+cd PunterosEnC-
+
+git status
+// si hay rojo
+git add .
+
+git commit -m "El commit a guardar"
+
+git push origin master -f
