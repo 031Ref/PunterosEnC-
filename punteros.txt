@@ -1,0 +1,4 @@
+pila: cuota reducida de memoria (puede desbordar) esta diseñada para guardar variables que apunten a otros sectores de memoria (Ej. Punteros)
+
+monton:
+
