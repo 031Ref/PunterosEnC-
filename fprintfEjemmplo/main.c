@@ -31,5 +31,6 @@ int main()
             puts(bufferIn);
         }
     }
+    fclose(fp);
     return 0;
 }
